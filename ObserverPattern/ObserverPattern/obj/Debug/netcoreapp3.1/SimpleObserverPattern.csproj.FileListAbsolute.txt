@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.exe
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.deps.json
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.runtimeconfig.json
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.dll
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\SimpleObserverPattern.pdb
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.dll
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.pdb
+C:\Users\usuario\source\repos\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\SimpleObserverPattern.genruntimeconfig.cache
